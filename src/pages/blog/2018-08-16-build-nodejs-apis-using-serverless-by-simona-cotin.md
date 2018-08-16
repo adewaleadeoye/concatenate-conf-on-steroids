@@ -8,4 +8,8 @@ tags:
   - APIs
   - Serverless
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YYRd0ja3Hss?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YYRd0ja3Hss?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="margin-bottom:20px"></iframe>
+
+
+
+[View Slides](https://slack-files.com/TBNJXD5KR-FC664DTA7-140c81422c)
