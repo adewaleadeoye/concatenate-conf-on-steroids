@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Data Visualizations for Web Developers by Shirley Wu
-date: '2018-08-01T12:00:00+01:00'
+date: '2018-08-10T12:00:00+01:00'
 description: A talk Shirley Wu at the 2018 Concatenate conference
 tags:
   - Data Visualizations
