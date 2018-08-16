@@ -11,7 +11,7 @@ export default class IndexPage extends React.Component {
       <section className="section">
         <div className="container">
           <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+            <h1 className="has-text-weight-bold is-size-2">Videos</h1>
           </div>
           {posts
             .map(({ node: post }) => (
@@ -25,14 +25,14 @@ export default class IndexPage extends React.Component {
                     {post.frontmatter.title}
                   </Link>
                   <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
+                  <small style={{fontSize:'12px'}}>{post.frontmatter.date}</small>
                 </p>
                 <p>
                   {post.excerpt}
                   <br />
                   <br />
                   <Link className="button is-small" to={post.fields.slug}>
-                    Keep Reading →
+                    View →
                   </Link>
                 </p>
               </div>
