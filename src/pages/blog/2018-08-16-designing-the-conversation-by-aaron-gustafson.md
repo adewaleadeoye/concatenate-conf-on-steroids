@@ -6,4 +6,8 @@ description: A talk by Aaron Gustafson at the 2018 Concatenate conference
 tags:
   - Web
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IGTs-gUwcXg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IGTs-gUwcXg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="margin-bottom:20px"></iframe>
+
+
+
+[View Slides](https://noti.st/aarongustafson/vdz8NT/designing-the-conversation)
