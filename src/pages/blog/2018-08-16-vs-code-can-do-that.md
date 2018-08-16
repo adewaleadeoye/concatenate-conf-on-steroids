@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: VS Code Can Do That
-date: '2018-08-16T00:17:47+01:00'
-description: A talk by Burke Holland at the 2018 Concatenate conference
+date: '2018-08-10T00:00:00+01:00'
+description: A talk by Burke Holland at the 2018 Concatenate conference.
 tags:
   - VS Code
   - Concatenate
